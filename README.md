@@ -1,12 +1,5 @@
-# Let Me Baidu That For You
-
 ## 介绍
 让我帮你搜索一下
-
-## 相关项目
-Gitee：https://gitee.com/wzh-team/let-me-baidu-that-for-you
-
-Github：https://github.com/WZH-Team/Let-Me-Baidu-That-For-You
 
 ## 说明
 使用MIT开源协议
