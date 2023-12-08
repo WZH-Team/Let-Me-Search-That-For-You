@@ -1,6 +1,5 @@
 # Let Me Search That For You
 让我帮你搜索一下
-
 此版本包含：百度，必应和谷歌
 
 ## 说明
