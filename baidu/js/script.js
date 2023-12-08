@@ -1,13 +1,3 @@
-/**
- * 让我帮你百度一下【重制版】
- * Gitee 开源地址：https://gitee.com/wzh-team/let-me-baidu-that-for-you
- **
- * 原始版本来自 bangbang(http://lmbtfy.cn/)，mengkun(https://mkblog.cn) 在原作的基础上进行了重制，风格变更为新版百度 UI，并适配了移动端
- * 交互效果参考了 不会百度么？(http://buhuibaidu.me/)
- **
- * 转载或使用时，还请保留以上信息，谢谢！
- */ 
-
 /* 低版本 IE polyfill */ 
 if(!window.location.origin) {
     window.location.origin = window.location.protocol + "//" + window.location.hostname + (window.location.port ? ':' + window.location.port: '');
