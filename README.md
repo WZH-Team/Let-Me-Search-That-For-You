@@ -10,3 +10,7 @@
 原始版本来自 bangbang http://lmbtfy.cn/ ，本项目在原作的基础上进行了重制，风格变更为新版百度 UI，并适配了移动端
 
 交互效果参考了 不会百度么？(http://buhuibaidu.me/)
+
+## 常见问题
+1.没有我需要的功能？
+    请提交issue，https://github.com/WZH-Team/Let-Me-Search-That-For-You/issues
