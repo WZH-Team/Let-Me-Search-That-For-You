@@ -96,7 +96,7 @@ $(function() {
             $tips.html('↓↓↓ 复制下面的链接，教伸手党使用百度');
             $('#output').fadeIn();
             //$urlOutput.val(window.location.origin + window.location.pathname + '?q=' + Base64.encode(question)).focus().select();
-            $urlOutput.val('https://api.ecylt.top/baidu/' + '?q=' + Base64.encode(question)).focus().select();
+            $urlOutput.val('https://wzh-team.github.io/Let-Me-Search-That-For-You/baidu/' + '?q=' + Base64.encode(question)).focus().select();
         }
         return false;
     });
